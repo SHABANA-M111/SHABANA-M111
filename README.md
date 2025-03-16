@@ -16,7 +16,7 @@
 - Building **software/web applications**.  
 
 ### 📫 Connect With Me:
-- 🔗 [LinkedIn](Your LinkedIn Link)  
+- 🔗 [LinkedIn] www.linkedin.com/in/shabana-aa2212261  
 - 💌 Email: shabana.studys@gmail.com 
 
 ### 🎨 Fun Fact:
