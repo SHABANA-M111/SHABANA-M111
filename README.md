@@ -17,7 +17,7 @@
 
 ### 📫 Connect With Me:
 - 🔗 [LinkedIn](Your LinkedIn Link)  
-- 💌 Email: your.email@example.com  
+- 💌 Email: shabana.studys@gmail.com 
 
 ### 🎨 Fun Fact:
 - I want to **teach emotions through animated stories!** 🎭✨  
