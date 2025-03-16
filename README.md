@@ -17,11 +17,8 @@
 
 ### 📫 Connect With Me:
 - 🔗 [LinkedIn] www.linkedin.com/in/shabana-aa2212261  
-- 💌 Email: shabana.studys@gmail.com 
-
-### 🎨 Fun Fact:
-- I want to **teach emotions through animated stories!** 🎭✨  
-
+- 💌 Email: shabana.studys@gmail.com
+- 
 ---
 🚀 **Let's build and create something amazing together!** 🚀
 
