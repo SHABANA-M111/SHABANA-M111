@@ -1,22 +1,15 @@
-Hi there 👋, I'm Shabana!
-💻 About Me:
-I'm a BTech graduate (2023), currently learning and exploring Software Development.
+👋 Hi, I'm Shabana!
+🎓 A Mechanical Engineer by degree.
+💻 A curious coder by heart.
 
-Building small projects to improve my skills and understand how things work.
+“Even I don’t belong to coding, but coding belongs to everyone.”
 
-Open to trying out different tools, technologies, and ideas.
+Just trying, just learning — one line of code at a time.
+Exploring Python, JavaScript, HTML, CSS
+Tinkering with tools like VS Code, GitHub, Node.js
 
-🛠 What I’m Learning:
-Languages: Python, JavaScript, HTML, CSS
+🌱 Taking it slow, learning at my own pace.
+🤝 Open to connect with fellow learners.
 
-Tools: VS Code, GitHub, learning Node.js
-
-Just Exploring For Now:
-Learning at my own pace
-
-Open to connecting with others who are also learning and experimenting
-
-Connect With Me:
-
-Email: shabana.studys@gmail.com
+📧 shabana.studys@gmail.com
 
